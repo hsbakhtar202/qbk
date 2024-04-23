@@ -1,4 +1,4 @@
-# qbk
+# Quickbookillah
 Bookkeeping made easy - export from Bank of America as a CSV, or convert your existing bank account information however you'd like into the input format, make your list of categories, put in your OpenAI key, and watch the magic happen.
 
 Most small businesses have the same types of transactions over&over again throughout the year. For example, if you could know the total of your Walmart, Sams Club, etc. payments and the total of your credit card sale deposits, your bookkeeping gets faster.
