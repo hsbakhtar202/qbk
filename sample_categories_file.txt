@@ -1,0 +1,30 @@
+Deposits, Credit
+ZellePayments, Debit
+StateTaxes, Debit
+Utilities, Debit
+SecurityServices, Debit
+SoftwareSubscriptions, Debit
+Personal Food Expense, Debit
+GeorgeFalter, Debit
+Cost of Goods Sold, Debit
+Uncategorized Debits, Debit
+WaterBill, Debit
+GasBill, Debit
+RentPayments, Debit
+OverdraftFees, Debit
+ATMWithdrawals, Debit
+MobileDeposits, Credit
+DirectDeposits, Credit
+InternetServices, Debit
+RentIncome, Credit
+BankFees, Debit
+LoanPayments, Debit
+EquipmentPurchases, Debit
+Transfers In, Credit
+Transfers Out, Debit
+Checks XXXX (1001), Debit
+Cash Deposit Fee, Debit
+Food Expense, Debit
+Car Payment, Debit
+Card Deposit Payments, Credit
+
